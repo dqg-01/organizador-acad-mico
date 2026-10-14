@@ -1,14 +1,14 @@
-# Task Manager
+# Organizador Académico
 
-Aplicación de consola desarrollada en Python para organizar tareas personales.
+Aplicación de consola desarrollada en Python para organizar las tareas escolares de un estudiante.
 
 ## Objetivo
 
-Crear una herramienta sencilla que permita registrar tareas, consultar las pendientes y marcar las que ya se completaron.
+Desarrollar una aplicación que permita organizar las tareas escolares de un estudiante, agrupándolas por materia y fecha de entrega.
 
 ## Tecnologías
 
-* Python
+* Python 3.14.7
 * Git
 * GitHub
 * OpenCode
@@ -19,7 +19,8 @@ En desarrollo.
 
 ## Funcionalidades previstas
 
-* Agregar tareas.
-* Mostrar la lista de tareas.
-* Marcar tareas como completadas.
-* Guardar las tareas para futuras ejecuciones.
+1. Crear tareas con título, descripción, materia y fecha de entrega.
+2. Mostrar todas las tareas registradas.
+3. Filtrar las tareas por materia.
+4. Marcar tareas como completadas.
+5. Guardar las tareas para conservarlas al cerrar el programa.
